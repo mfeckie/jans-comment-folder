@@ -1,15 +1,13 @@
 {
   "name": "jans-comment-folder",
   "main": "./lib/jans-comment-folder",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Automatically fold comments in your files",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/mfeckie/jans-comment-folder",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
