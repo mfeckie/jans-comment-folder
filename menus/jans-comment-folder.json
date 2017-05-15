@@ -1,0 +1,24 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle jans-comment-folder",
+        "command": "jans-comment-folder:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "jans-comment-folder",
+          "submenu": [
+            { "label": "Fold all", "command": "jans-comment-folder:fold-all" },
+            { "label": "Unfold all", "command": "jans-comment-folder:unfold-all" }
+          ]
+        }
+      ]
+    }
+  ]
+}

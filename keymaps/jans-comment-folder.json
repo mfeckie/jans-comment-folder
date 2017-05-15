@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-o": "jans-comment-folder:fold-all",
+    "ctrl-alt-O": "jans-comment-folder:unfold-all"
+  }
+}
